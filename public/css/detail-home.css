@@ -1,0 +1,45 @@
+
+.title {
+    text-align: center;
+    font-size: 47px;
+    margin-top: 60px;
+}
+
+
+/* /////// */
+.selected {
+    margin-top: 70px;
+    margin-left: 400px;
+    /* padding: 9px 26px; */
+}
+.selected a.btn.btn-light {
+    padding: 9px 56px;
+    color: black;
+}
+.file h2 {
+    margin-left: 445px;
+    margin-top: 55px;
+}
+.chonfile {
+    margin-left: 400px;
+    margin-top: 60px;
+}
+.chonfile a.btn.btn-default {
+    padding: 7px 20px;
+}
+.filetrai {
+    float: left;
+}
+.filephai {
+    margin-left: 390px;
+}
+.filecon{
+    float: left;
+}
+.filecon1{
+    float: left;
+}
+.filecon1 p {
+    margin-left: 30px;
+    margin-top: 10px;
+}

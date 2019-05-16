@@ -1,0 +1,28 @@
+body {
+  overflow-x: hidden;
+}
+
+.PGB {
+  border-top: 2px solid #18a4c2;
+  margin-top: 31px;
+}
+
+.LGB {
+  font-size: 15px;
+  line-height: inherit;
+  color: #333;
+  font-weight: 600;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  background-color: #e2e4e6;
+  width: 100%;
+  padding-left: 15px;
+
+}
+.AHB {
+  border-bottom: 1px solid #f4f5f6;
+  padding-bottom: 6px;
+  padding-top: 6px;
+  font-size: 1.1em;
+  padding-left: 30px;
+}
